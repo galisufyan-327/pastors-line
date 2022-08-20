@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.btn {
+  margin: 30px;
+}
+
+.btn-b {
+  background-color: #ff7f50 !important;
+  border-color: #ff7f50 !important;
+}
+
+.btn-a {
+  background-color: #46139f !important;
+  border-color: #46139f !important;
+}
+
+.btn-c {
+  color: black !important;
+  background-color: white !important;
+  border-color: #46139f !important;
+}
+
+.modal-90w {
+  width: 100% !important;
+}
+.contact-detail {
+  .list-group {
+    margin-bottom: 10px;
+  }
+}
+
+@import url('./common.scss');
